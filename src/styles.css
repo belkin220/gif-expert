@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color:#313a46;
+    padding: 30px;
+  }
+  
+  .list-group-item {
+    position: relative;
+    margin-top: 78px;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    background-color: #727cf5;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 10px;
+  }
+
+  .remove {
+    display:none;
+  }
+
+  .category {
+    margin-top: -65px;
+  }
+  
